@@ -1,0 +1,6 @@
+site_name: JOTI 2024
+theme:
+  language: nl
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
