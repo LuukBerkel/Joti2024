@@ -1,1 +1,0 @@
-# Opdracht: Communicatie uitdagingen
