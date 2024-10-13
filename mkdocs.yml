@@ -4,3 +4,6 @@ theme:
   name: material
   logo: assets/logo.png
   favicon: assets/favicon.ico
+  features:
+    - navigation.top
+    - navigation.tabs
