@@ -130,11 +130,11 @@ In deze communicatie-opdrachten worden verschillende coderingstechnieken gebruik
 
 `.-- . .-.. -.-. --- -- . / ... -.-. --- ..- - ...`
 
-3. **Wat staat hier in ASII uitgedrukt?**
+3. **Wat staat hier in ASII(American Standard Code for Information Interchange) uitgedrukt?**
 
 `72 101 108 108 111`
 
-4. **Wat staat hier in ASII uitgedrukt**
+4. **Wat staat hier in ASII(American Standard Code for Information Interchange) uitgedrukt**
 
 `67 111 100 101 32 108 101 97 114 110 105 110 103`
 
