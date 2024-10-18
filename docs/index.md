@@ -30,3 +30,49 @@ Alle opdrachten voor JOTI staan op deze website, gesorteerd per categorie. Je he
 
 Veel succes en plezier met het ontmoeten van scouts van over de hele wereld tijdens JOTI! Maak nieuwe vrienden, leer nieuwe dingen en vooral: geniet van deze geweldige ervaring! 🌍✨
 
+## Opdracht
+Tijdens JOTI (Jamboree On The Internet) krijg je de kans om met scouts van over de hele wereld te chatten. Deze vragen helpen je om meer te leren over andere scoutingculturen en om interessante gesprekken te voeren. Gebruik de onderstaande vragen om andere scouts beter te leren kennen!
+
+### Opdracht: Internationale vragen??
+Zoek een scout uit een land waarmee je die met je wil chatten. Vraag aan deze scout bij welke scouting hij zit en van welk land hij is. Hoe verder weg deze scout zich van jou bevindt hoe meer punten er beschikbaar komen. Schrijf deze locatie dus `scouting+land` goed op het antwoorden vel. Schrijf ook het antwoord van de vraag op, op het antwoorde vel. Vraag dan maximaal 5 vragen aan deze scout. Probeer dus niet zo snel mogelijk door al je vragen heen te zijn want anders kom je zometeen een scout tegen die verder weg is en heb je dus punten laten liggen. 
+
+1. **Wat is de meest populaire scoutingactiviteit in jouw land?**
+2. **Wat is een typisch gerecht dat je tijdens scoutingkampen in jouw land eet?**
+3. **Wat zijn de grootste uitdagingen waarmee scouts in jouw land te maken hebben?**
+4. **Wat is een populaire traditie of festiviteit die scouts in jouw land vieren?**
+5. **Hoe verschilt scouting in jouw land van scouting in Nederland?**
+6. **Wat zijn de belangrijkste waarden die scouts in jouw land hooghouden?**
+7. **Hoeveel scouts zijn er in jouw groep en wat maakt jullie uniek?**
+8. **Wat is de grootste scoutingorganisatie in jouw land?**
+9. **Welke unieke vaardigheden leren scouts in jouw land?**
+10. **Wat is jouw favoriete manier om tijd in de natuur door te brengen als scout?**
+11. **Wat zijn populaire buitenactiviteiten in jouw land die scouts vaak doen?**
+12. **Hoe belangrijk is teamwork binnen jouw scoutsgroep?**
+13. **Wat is een typisch scoutinguniform in jouw land?**
+14. **Heb je een favoriete scoutingtechniek die je hebt geleerd?**
+15. **Hoe vaak gaan jullie op kamp met je scoutsgroep?**
+16. **Wat is de mooiste natuurervaring die je hebt gehad tijdens scouting?**
+17. **Wat is een lokaal dier dat je vaak tegenkomt tijdens scoutingactiviteiten?**
+18. **Welke spellen zijn populair in jouw scoutinggroep?**
+19. **Wat zijn de meest gebruikte materialen in jouw scoutingactiviteiten?**
+20. **Wat is iets wat je nog wilt leren binnen scouting?**
+21. **Hoe heb je van JOTI gehoord en wat is je eerste indruk?**
+22. **Wat hoop je te leren van scouts uit andere landen tijdens JOTI?**
+23. **Hoe gebruik je technologie om contact te houden met andere scouts?**
+24. **Wat vind je het leukste aan het chatten met scouts van over de wereld?**
+25. **Heb je al met scouts uit andere landen gechat? Hoe was dat?**
+26. **Wat is een activiteit of spel dat je zou willen organiseren tijdens JOTI?**
+27. **Welke vaardigheden of kennis wil je delen met scouts uit andere landen?**
+28. **Hoe vaak neem je deel aan internationale scoutingevenementen?**
+29. **Wat zijn je verwachtingen van JOTI?**
+30. **Wat vind je belangrijk in de verbinding met andere scouts via JOTI?**
+31. **Hoe heeft JOTI je geholpen om meer over andere culturen te leren?**
+32. **Wat zijn de grootste verschillen die je hebt opgemerkt tussen scouting in jouw land en scouting in Nederland?**
+33. **Wat is een unieke activiteit die je zou willen delen met andere scouts tijdens JOTI?**
+34. **Hoe belangrijk vind je het om verschillende talen te leren als scout?**
+35. **Heb je al ideeën voor toekomstige projecten of activiteiten die je wilt doen met andere scouts?**
+36. **Wat vind je het leukste aan het idee om wereldwijd vrienden te maken via scouting?**
+37. **Heb je ooit iets bijzonders meegemaakt tijdens een online scoutingactiviteit?**
+38. **Wat zou je andere scouts adviseren om het meeste uit JOTI te halen?**
+39. **Wat is een typisch spel of activiteit die je graag tijdens JOTI zou willen spelen?**
+40. **Wat is een belangrijk doel dat je wilt bereiken tijdens JOTI?**
