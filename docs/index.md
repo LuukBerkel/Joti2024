@@ -30,6 +30,8 @@ Alle opdrachten voor JOTI staan op deze website, gesorteerd per categorie. Je he
 
 Veel succes en plezier met het ontmoeten van scouts van over de hele wereld tijdens JOTI! Maak nieuwe vrienden, leer nieuwe dingen en vooral: geniet van deze geweldige ervaring! 🌍✨
 
+### Opdracht: Raadsel...
+Elke twintig tot dertig minuten verschijnt er een nieuw fragment van het raadsel op je scherm, en elk stuk blijft gedurende die tijd zichtbaar. Zorg ervoor dat je deze delen goed noteert, want ze vormen samen een belangrijke zin. Er zijn in totaal vier delen, en elk fragment is cruciaal om het volledige raadsel te begrijpen. Neem de tijd om elk onderdeel te analyseren en uit te zoeken wat het betekent. Het is ook handig om vooraf informatie te verzamelen, zodat je goed voorbereid bent om het raadsel te ontrafelen. Blijf alert, want de oplossing ligt in de samenhang van alle delen!
 
 ### Opdracht: Internationale vragen?
 Zoek een scout uit een land waarmee je wilt chatten. Vraag aan deze scout bij welke scouting hij zit en van welk land hij is. Hoe verder weg deze scout zich van jou bevindt hoe meer punten er beschikbaar komen. Schrijf deze locatie dus `scouting+land` goed op het antwoorden vel. Schrijf ook het antwoord van de vraag op, op het antwoord vel. Vraag dan maximaal 5 vragen aan deze scout. Probeer dus niet zo snel mogelijk door al je vragen heen te zijn want anders kom je zometeen een scout tegen die verder weg is en heb je dus punten laten liggen. 
@@ -118,6 +120,3 @@ Zoek de antwoorden op de vragen over scouting en communicatie op Wikipedia door 
 38. **Hoe beïnvloedt technologie de manier waarop scouts met elkaar communiceren?**
 39. **Wat zijn de belangrijkste principes van het Wereldhandvest van Scouting?**
 40. **Wat zijn de verschillende speltakken binnen de scouting?**
-
-### Opdracht: Raadsel...
-lke twintig tot dertig minuten verschijnt er een nieuw fragment van het raadsel op je scherm, en elk stuk blijft gedurende die tijd zichtbaar. Zorg ervoor dat je deze delen goed noteert, want ze vormen samen een belangrijke zin. Er zijn in totaal vier delen, en elk fragment is cruciaal om het volledige raadsel te begrijpen. Neem de tijd om elk onderdeel te analyseren en uit te zoeken wat het betekent. Het is ook handig om vooraf informatie te verzamelen, zodat je goed voorbereid bent om het raadsel te ontrafelen. Blijf alert, want de oplossing ligt in de samenhang van alle delen!
