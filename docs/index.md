@@ -123,14 +123,18 @@ Zoek de antwoorden op de vragen over scouting en communicatie op Wikipedia door 
 In deze communicatie-opdrachten worden verschillende coderingstechnieken gebruikt. De deelnemers moeten de berichten decoderen die zijn weergegeven in Semaphore, Morse-code en ASCII. Elke opdracht vraagt om het ontcijferen van een specifieke boodschap, waardoor ze hun vaardigheden in het decoderen van verschillende communicatievormen kunnen testen.
 
 1. **Wat staat hier in semaphoren uitgedrukt?**
+
 ![alt text](assets/semaphores.png)
 
 2. **Wat staat hier in morsecode uitgedrukt?**
+
 `.-- . .-.. -.-. --- -- . / ... -.-. --- ..- - ...`
 
 3. **Wat staat hier in asii uitgedrukt?**
+
 `72 101 108 108 111`
 
 4. **Wat staat hier in asii uitgedrukt**
+
 `67 111 100 101 32 108 101 97 114 110 105 110 103`
 
