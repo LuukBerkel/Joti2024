@@ -31,8 +31,8 @@ Alle opdrachten voor JOTI staan op deze website, gesorteerd per categorie. Je he
 Veel succes en plezier met het ontmoeten van scouts van over de hele wereld tijdens JOTI! Maak nieuwe vrienden, leer nieuwe dingen en vooral: geniet van deze geweldige ervaring! 🌍✨
 
 
-### Opdracht: Internationale vragen??
-Zoek een scout uit een land waarmee je die met je wil chatten. Vraag aan deze scout bij welke scouting hij zit en van welk land hij is. Hoe verder weg deze scout zich van jou bevindt hoe meer punten er beschikbaar komen. Schrijf deze locatie dus `scouting+land` goed op het antwoorden vel. Schrijf ook het antwoord van de vraag op, op het antwoorde vel. Vraag dan maximaal 5 vragen aan deze scout. Probeer dus niet zo snel mogelijk door al je vragen heen te zijn want anders kom je zometeen een scout tegen die verder weg is en heb je dus punten laten liggen. 
+### Opdracht: Internationale vragen?
+Zoek een scout uit een land waarmee je wilt chatten. Vraag aan deze scout bij welke scouting hij zit en van welk land hij is. Hoe verder weg deze scout zich van jou bevindt hoe meer punten er beschikbaar komen. Schrijf deze locatie dus `scouting+land` goed op het antwoorden vel. Schrijf ook het antwoord van de vraag op, op het antwoord vel. Vraag dan maximaal 5 vragen aan deze scout. Probeer dus niet zo snel mogelijk door al je vragen heen te zijn want anders kom je zometeen een scout tegen die verder weg is en heb je dus punten laten liggen. 
 
 1. **Wat is de meest populaire scoutingactiviteit in jouw land?**
 2. **Wat is een typisch gerecht dat je tijdens scoutingkampen in jouw land eet?**
@@ -74,3 +74,64 @@ Zoek een scout uit een land waarmee je die met je wil chatten. Vraag aan deze sc
 38. **Wat zou je andere scouts adviseren om het meeste uit JOTI te halen?**
 39. **Wat is een typisch spel of activiteit die je graag tijdens JOTI zou willen spelen?**
 40. **Wat is een belangrijk doel dat je wilt bereiken tijdens JOTI?**
+
+### Opdracht: Wikipedia zoektocht?
+Zoek de antwoorden op de vragen over scouting en communicatie op Wikipedia door gebruik te maken van relevante keywords. Typ een paar sleutelwoorden in de zoekbalk in plaats van de volledige vraag om een breder overzicht te krijgen. Lees de artikelen aandachtig en noteer de juiste antwoorden op je antwoordenvel. Vergeet niet om interessante feiten of extra informatie te verzamelen, want hoe meer details je hebt, hoe beter je je antwoorden kunt onderbouwen. Neem de tijd voor elke zoekopdracht, zodat je niets mist. Veel succes met je zoektocht!
+
+# Vragen over Scouting en Communicatie
+1. **In welk jaar werd de Boy Scouts of America opgericht?**
+2. **Wat is de betekenis van het woord "scouting"?**
+3. **Wanneer werd de eerste World Scout Jamboree gehouden?**
+4. **Wie is de oprichter van de wereldwijde scoutingbeweging, en wat was zijn bijdrage?**
+5. **Wat komt er na `Sta paraat` in de afscheidsbrief van de oprichter van de scoutingbeweging?**
+6. **Aan wat is de oprichter van scouting gestorven?**
+7. **In welk jaar werd Morse-code ontwikkeld en door wie?**
+8. **Wie is de uitvinder van de radio?**
+9. **Wie heeft het eerste radiosignaal verzonden?**
+10. **Wat is de rol van semaforen in de communicatie?**
+11. **Wat is het doel van de Wereldscoutorganisatie (WOSM)?**
+12. **In welk jaar werd de eerste editie van het handboek voor scouts gepubliceerd?**
+13. **Wat zijn de kleuren van het scoutskostuum in Nederland?**
+14. **In welk jaar vond de eerste Jamboree On The Internet (JOTI) plaats?**
+15. **Wie heeft het scoutsgroet geïntroduceerd?**
+16. **Wat is het doel van de Wereldscoutdag?**
+17. **Hoe hete de eerste satelliet en wanneer werd deze gelanceerd?**
+18. **Wat zijn de belangrijkste waarden van scouting?**
+19. **In welk jaar werd de Internationale Federatie van Scoutingorganisaties (WAGGGS) opgericht?**
+20. **Wie zijn enkele bekende scouts in de geschiedenis?**
+21. **Wie zijn de oprichters van de eerste scoutsorganisatie in jouw land?**
+22. **Wat is de rol van communicatie in noodsituaties?**
+23. **In welk jaar werd het internet openbaar toegankelijk?**
+24. **Wie was de eerste persoon die een mobiele telefoon uitvond?**
+25. **Wat zijn enkele technieken die scouts gebruiken voor navigatie?**
+26. **Wie is de huidige leider van de Wereldscoutorganisatie?**
+27. **In welk jaar werd de eerste videogameconsole gelanceerd?**
+28. **Wie was de uitvinder van de semafoorcommunicatie?**
+29. **Wat is de betekenis van de term "outdoor education" in scouting?**
+30. **In welk jaar werd de eerste versie van het internetprotocol (TCP/IP) geïmplementeerd?**
+31. **Wie zijn de belangrijkste oprichters van scoutingorganisaties wereldwijd?**
+32. **Wat zijn enkele communicatietools die scouts gebruiken tijdens JOTI?**
+33. **In welk jaar werd de eerste postduif gebruikt voor communicatie?**
+34. **Wie heeft de eerste succesvolle communicatiesatelliet ontworpen?**
+35. **Wat zijn de verschillende manieren waarop scouts communiceren tijdens een kamp?**
+36. **Welke rol speelt sociale media in de communicatie van scoutinggroepen?**
+37. **Wat zijn de voordelen van het gebruik van digitale communicatie binnen scouting?**
+38. **Hoe beïnvloedt technologie de manier waarop scouts met elkaar communiceren?**
+39. **Wat zijn de belangrijkste principes van het Wereldhandvest van Scouting?**
+40. **Wat zijn de verschillende speltakken binnen de scouting?**
+
+### Communicatie Opdrachten
+In deze communicatie-opdrachten worden verschillende coderingstechnieken gebruikt. De deelnemers moeten de berichten decoderen die zijn weergegeven in Semaphore, Morse-code en ASCII. Elke opdracht vraagt om het ontcijferen van een specifieke boodschap, waardoor ze hun vaardigheden in het decoderen van verschillende communicatievormen kunnen testen.
+
+1. **Wat staat hier in semaphoren uitgedrukt?**
+![alt text](assets/image.png)
+
+2. **Wat staat hier in morsecode uitgedrukt?**
+`.-- . .-.. -.-. --- -- . / ... -.-. --- ..- - ...`
+
+3. **Wat staat hier in asii uitgedrukt?**
+`72 101 108 108 111`
+
+4. **Wat staat hier in asii uitgedrukt**
+`67 111 100 101 32 108 101 97 114 110 105 110 103`
+
