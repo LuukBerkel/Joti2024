@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joti 2024 Vertaler</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        header {
+            background-color: blue;
+            color: white;
+            padding: 10px 0;
+        }
+        h1 {
+            margin: 0;
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 20px auto;
+            text-align: left; /* Align text to the left for form elements */
+        }
+        .logo {
+            width: 70px; /* Adjust the logo size as needed */
+            margin: 10px auto; /* Center the logo */
+            display: block; /* Make the logo a block element */
+        }
+        textarea {
+            width: calc(100% - 20px); /* Adjust width to account for padding */
+            height: 100px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            resize: none;
+            display: block; /* Make textarea a block element */
+            margin: 10px auto; /* Center and add margin below */
+        }
+        select {
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            margin: 10px auto; /* Center the select */
+            display: block; /* Make it a block element to center */
+            width: 50%; /* Set width to 50% to center properly */
+        }
+        button {
+            background-color: blue;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 10px auto; /* Center the button */
+            display: block; /* Make it a block element to center */
+        }
+        button:hover {
+            background-color: blue;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #555;
+        }
+        label {
+            display: block; /* Make label a block element */
+            text-align: center; /* Center the label text */
+            margin: 10px 0; /* Add margin above and below */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Joti 2024 Vertaler</h1>
+    </header>
+    <div class="container">
+        <img src="{{ url_for('static', filename='logo.png') }}" alt="Luchscouts Seppe Logo" class="logo">
+        <form method="POST" action="/translate">
+            <textarea name="text" placeholder="Voer tekst in om te vertalen">{{ request.form.text }}</textarea>
+            <label for="lang">Selecteer vertaalrichting:</label>
+            <select name="lang" id="lang">
+                <option value="nl_to_en" {% if request.form.lang == 'nl_to_en' %}selected{% endif %}>Nederlands naar Engels</option>
+                <option value="en_to_nl" {% if request.form.lang == 'en_to_nl' %}selected{% endif %}>Engels naar Nederlands</option>
+            </select>
+            <button type="submit">Vertalen</button>
+        </form>
+
+        {% if translated_text %}
+            <h2>Vertaald Tekst:</h2>
+            <p>{{ translated_text }}</p>
+        {% endif %}
+    </div>
+    <footer>
+        &copy; 2024 Luchscouts Seppe. Alle rechten voorbehouden.
+    </footer>
+</body>
+</html>
