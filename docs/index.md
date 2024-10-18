@@ -30,8 +30,6 @@ Alle opdrachten voor JOTI staan op deze website, gesorteerd per categorie. Je he
 
 Veel succes en plezier met het ontmoeten van scouts van over de hele wereld tijdens JOTI! Maak nieuwe vrienden, leer nieuwe dingen en vooral: geniet van deze geweldige ervaring! 🌍✨
 
-## Opdracht
-Tijdens JOTI (Jamboree On The Internet) krijg je de kans om met scouts van over de hele wereld te chatten. Deze vragen helpen je om meer te leren over andere scoutingculturen en om interessante gesprekken te voeren. Gebruik de onderstaande vragen om andere scouts beter te leren kennen!
 
 ### Opdracht: Internationale vragen??
 Zoek een scout uit een land waarmee je die met je wil chatten. Vraag aan deze scout bij welke scouting hij zit en van welk land hij is. Hoe verder weg deze scout zich van jou bevindt hoe meer punten er beschikbaar komen. Schrijf deze locatie dus `scouting+land` goed op het antwoorden vel. Schrijf ook het antwoord van de vraag op, op het antwoorde vel. Vraag dan maximaal 5 vragen aan deze scout. Probeer dus niet zo snel mogelijk door al je vragen heen te zijn want anders kom je zometeen een scout tegen die verder weg is en heb je dus punten laten liggen. 
