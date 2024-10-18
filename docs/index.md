@@ -78,7 +78,6 @@ Zoek een scout uit een land waarmee je wilt chatten. Vraag aan deze scout bij we
 ### Opdracht: Wikipedia zoektocht?
 Zoek de antwoorden op de vragen over scouting en communicatie op Wikipedia door gebruik te maken van relevante keywords. Typ een paar sleutelwoorden in de zoekbalk in plaats van de volledige vraag om een breder overzicht te krijgen. Lees de artikelen aandachtig en noteer de juiste antwoorden op je antwoordenvel. Vergeet niet om interessante feiten of extra informatie te verzamelen, want hoe meer details je hebt, hoe beter je je antwoorden kunt onderbouwen. Neem de tijd voor elke zoekopdracht, zodat je niets mist. Veel succes met je zoektocht!
 
-# Vragen over Scouting en Communicatie
 1. **In welk jaar werd de Boy Scouts of America opgericht?**
 2. **Wat is de betekenis van het woord "scouting"?**
 3. **Wanneer werd de eerste World Scout Jamboree gehouden?**
@@ -120,11 +119,11 @@ Zoek de antwoorden op de vragen over scouting en communicatie op Wikipedia door 
 39. **Wat zijn de belangrijkste principes van het Wereldhandvest van Scouting?**
 40. **Wat zijn de verschillende speltakken binnen de scouting?**
 
-### Communicatie Opdrachten
+### Opdracht: Communicatie zinnen?
 In deze communicatie-opdrachten worden verschillende coderingstechnieken gebruikt. De deelnemers moeten de berichten decoderen die zijn weergegeven in Semaphore, Morse-code en ASCII. Elke opdracht vraagt om het ontcijferen van een specifieke boodschap, waardoor ze hun vaardigheden in het decoderen van verschillende communicatievormen kunnen testen.
 
 1. **Wat staat hier in semaphoren uitgedrukt?**
-![alt text](assets/image.png)
+![alt text](assets/semaphores.png)
 
 2. **Wat staat hier in morsecode uitgedrukt?**
 `.-- . .-.. -.-. --- -- . / ... -.-. --- ..- - ...`
