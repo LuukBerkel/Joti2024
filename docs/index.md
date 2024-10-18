@@ -119,22 +119,5 @@ Zoek de antwoorden op de vragen over scouting en communicatie op Wikipedia door 
 39. **Wat zijn de belangrijkste principes van het Wereldhandvest van Scouting?**
 40. **Wat zijn de verschillende speltakken binnen de scouting?**
 
-### Opdracht: Communicatie zinnen?
-In deze communicatie-opdrachten worden verschillende coderingstechnieken gebruikt. De deelnemers moeten de berichten decoderen die zijn weergegeven in Semaphore, Morse-code en ASCII. Elke opdracht vraagt om het ontcijferen van een specifieke boodschap, waardoor ze hun vaardigheden in het decoderen van verschillende communicatievormen kunnen testen.
-
-1. **Wat staat hier in semaphoren uitgedrukt?**
-
-![alt text](assets/semaphores.png)
-
-2. **Wat staat hier in morsecode uitgedrukt?**
-
-`.-- . .-.. -.-. --- -- . / ... -.-. --- ..- - ...`
-
-3. **Wat staat hier in ASCII uitgedrukt?**
-
-`72 101 108 108 111`
-
-4. **Wat staat hier in ASCII uitgedrukt**
-
-`67 111 100 101 32 108 101 97 114 110 105 110 103`
-
+### Opdracht: Raadsel...
+lke twintig tot dertig minuten verschijnt er een nieuw fragment van het raadsel op je scherm, en elk stuk blijft gedurende die tijd zichtbaar. Zorg ervoor dat je deze delen goed noteert, want ze vormen samen een belangrijke zin. Er zijn in totaal vier delen, en elk fragment is cruciaal om het volledige raadsel te begrijpen. Neem de tijd om elk onderdeel te analyseren en uit te zoeken wat het betekent. Het is ook handig om vooraf informatie te verzamelen, zodat je goed voorbereid bent om het raadsel te ontrafelen. Blijf alert, want de oplossing ligt in de samenhang van alle delen!
